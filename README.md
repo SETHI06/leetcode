@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/SETHI06/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SETHI06/leetcode/tree/master/0283-move-zeroes) |
@@ -42,4 +43,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/SETHI06/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
