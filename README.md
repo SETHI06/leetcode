@@ -8,6 +8,7 @@
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/SETHI06/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/SETHI06/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SETHI06/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
