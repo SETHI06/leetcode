@@ -63,4 +63,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SETHI06/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
