@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/SETHI06/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,4 +81,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SETHI06/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SETHI06/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
