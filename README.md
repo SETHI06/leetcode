@@ -17,6 +17,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SETHI06/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SETHI06/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SETHI06/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
