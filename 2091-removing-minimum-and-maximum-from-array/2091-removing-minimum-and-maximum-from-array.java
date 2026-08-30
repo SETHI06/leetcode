@@ -13,6 +13,6 @@ class Solution {
         int fromRight = nums.length - left;
         int fromBoth = (left + 1) + (nums.length - right);
 
-        return Math.min(fromLeft, Math.min(fromRight, fromBoth));
+        return Math.min(fromBoth, Math.min(fromRight, fromLeft));
     }
 }
