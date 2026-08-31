@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SETHI06/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SETHI06/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SETHI06/leetcode/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SETHI06/leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -124,4 +126,8 @@
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## String
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
