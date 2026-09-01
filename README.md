@@ -78,6 +78,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SETHI06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/SETHI06/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SETHI06/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/SETHI06/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Stack
@@ -107,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/SETHI06/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/SETHI06/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/SETHI06/leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
