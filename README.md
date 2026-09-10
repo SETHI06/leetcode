@@ -54,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SETHI06/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/SETHI06/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/SETHI06/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
@@ -79,6 +80,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SETHI06/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SETHI06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/SETHI06/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SETHI06/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -111,6 +113,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SETHI06/leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/SETHI06/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/SETHI06/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/SETHI06/leetcode/tree/master/0509-fibonacci-number) |
