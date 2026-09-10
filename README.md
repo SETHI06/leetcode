@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SETHI06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SETHI06/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SETHI06/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
@@ -83,6 +84,7 @@
 | [0002-add-two-numbers](https://github.com/SETHI06/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SETHI06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/SETHI06/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SETHI06/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SETHI06/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SETHI06/leetcode/tree/master/0086-partition-list) |
 | [0203-remove-linked-list-elements](https://github.com/SETHI06/leetcode/tree/master/0203-remove-linked-list-elements) |
