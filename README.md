@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/SETHI06/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SETHI06/leetcode/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/SETHI06/leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/SETHI06/leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SETHI06/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/SETHI06/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 ## Hash Table
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SETHI06/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
