@@ -30,6 +30,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SETHI06/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SETHI06/leetcode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/SETHI06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SETHI06/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/SETHI06/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -144,6 +145,7 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/SETHI06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 ## Backtracking
 |  |
