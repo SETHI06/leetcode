@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/SETHI06/leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/SETHI06/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SETHI06/leetcode/tree/master/0054-spiral-matrix) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SETHI06/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/SETHI06/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/SETHI06/leetcode/tree/master/0086-partition-list) |
@@ -145,6 +147,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
