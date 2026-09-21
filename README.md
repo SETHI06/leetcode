@@ -160,4 +160,8 @@
 | [0039-combination-sum](https://github.com/SETHI06/leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/SETHI06/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SETHI06/leetcode/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/SETHI06/leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
