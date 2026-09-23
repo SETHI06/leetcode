@@ -21,6 +21,7 @@
 | [0485-max-consecutive-ones](https://github.com/SETHI06/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SETHI06/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1920-build-array-from-permutation](https://github.com/SETHI06/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -45,6 +46,7 @@
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -52,15 +54,18 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Math
 |  |
 | ------- |
@@ -150,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## String
 |  |
