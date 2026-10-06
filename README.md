@@ -114,10 +114,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/SETHI06/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SETHI06/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0933-number-of-recent-calls](https://github.com/SETHI06/leetcode/tree/master/0933-number-of-recent-calls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,4 +175,8 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/SETHI06/leetcode/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SETHI06/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/SETHI06/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
