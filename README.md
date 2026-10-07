@@ -178,6 +178,7 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/SETHI06/leetcode/tree/master/0176-second-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/SETHI06/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [3220-odd-and-even-transactions](https://github.com/SETHI06/leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Data Stream
 |  |
 | ------- |
