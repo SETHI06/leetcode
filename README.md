@@ -152,6 +152,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SETHI06/leetcode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/SETHI06/leetcode/tree/master/1920-build-array-from-permutation) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SETHI06/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,6 +171,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/SETHI06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SETHI06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SETHI06/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Backtracking
 |  |
 | ------- |
