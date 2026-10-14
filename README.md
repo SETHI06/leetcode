@@ -80,6 +80,7 @@
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/SETHI06/leetcode/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SETHI06/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -167,6 +168,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SETHI06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/SETHI06/leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SETHI06/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## String
 |  |
