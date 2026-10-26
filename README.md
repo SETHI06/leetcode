@@ -17,6 +17,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SETHI06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SETHI06/leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/SETHI06/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/SETHI06/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -48,6 +49,7 @@
 | [0088-merge-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SETHI06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/SETHI06/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SETHI06/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -207,4 +209,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SETHI06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/SETHI06/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
