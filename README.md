@@ -51,6 +51,7 @@
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/SETHI06/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SETHI06/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -99,6 +100,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SETHI06/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -177,6 +179,7 @@
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/SETHI06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SETHI06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SETHI06/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Backtracking
@@ -207,6 +210,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SETHI06/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -215,4 +219,9 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/SETHI06/leetcode/tree/master/0274-h-index) |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
