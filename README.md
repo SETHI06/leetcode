@@ -196,6 +196,7 @@
 | [0626-exchange-seats](https://github.com/SETHI06/leetcode/tree/master/0626-exchange-seats) |
 | [1179-reformat-department-table](https://github.com/SETHI06/leetcode/tree/master/1179-reformat-department-table) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SETHI06/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/SETHI06/leetcode/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/SETHI06/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [3220-odd-and-even-transactions](https://github.com/SETHI06/leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Data Stream
