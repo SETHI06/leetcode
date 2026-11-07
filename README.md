@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SETHI06/leetcode/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/SETHI06/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/SETHI06/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SETHI06/leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/SETHI06/leetcode/tree/master/0078-subsets) |
@@ -98,6 +99,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/SETHI06/leetcode/tree/master/0041-first-missing-positive) |
 | [0268-missing-number](https://github.com/SETHI06/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SETHI06/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
