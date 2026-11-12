@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SETHI06/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/SETHI06/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SETHI06/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/SETHI06/leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/SETHI06/leetcode/tree/master/0041-first-missing-positive) |
@@ -179,6 +180,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SETHI06/leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/SETHI06/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -248,4 +250,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/SETHI06/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SETHI06/leetcode/tree/master/0101-symmetric-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/SETHI06/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
