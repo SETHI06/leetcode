@@ -162,6 +162,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SETHI06/leetcode/tree/master/0054-spiral-matrix) |
 | [1920-build-array-from-permutation](https://github.com/SETHI06/leetcode/tree/master/1920-build-array-from-permutation) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SETHI06/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SETHI06/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Divide and Conquer
 |  |
@@ -185,6 +186,7 @@
 | [0392-is-subsequence](https://github.com/SETHI06/leetcode/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SETHI06/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SETHI06/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/SETHI06/leetcode/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Backtracking
 |  |
