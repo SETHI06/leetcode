@@ -209,6 +209,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/SETHI06/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/SETHI06/leetcode/tree/master/1393-capital-gainloss) |
 | [1484-group-sold-products-by-the-date](https://github.com/SETHI06/leetcode/tree/master/1484-group-sold-products-by-the-date) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/SETHI06/leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [3220-odd-and-even-transactions](https://github.com/SETHI06/leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Data Stream
 |  |
