@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-# Write your MySQL query statement below
 SELECT 
     M.EMPLOYEE_ID,
     M.NAME,
