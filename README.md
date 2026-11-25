@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/SETHI06/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/SETHI06/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SETHI06/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SETHI06/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SETHI06/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SETHI06/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
@@ -72,6 +73,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/SETHI06/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/SETHI06/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/SETHI06/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SETHI06/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/SETHI06/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/SETHI06/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/SETHI06/leetcode/tree/master/0692-top-k-frequent-words) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SETHI06/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SETHI06/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
