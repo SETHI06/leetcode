@@ -252,12 +252,14 @@
 | [0100-same-tree](https://github.com/SETHI06/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SETHI06/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/SETHI06/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SETHI06/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,9 +272,14 @@
 | [0100-same-tree](https://github.com/SETHI06/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SETHI06/leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SETHI06/leetcode/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/SETHI06/leetcode/tree/master/0692-top-k-frequent-words) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SETHI06/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
